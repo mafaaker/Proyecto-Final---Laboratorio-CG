@@ -7,13 +7,11 @@ Aplicar conocimientos adquiridos en el curso para desarrollar una escena 3D con 
 
 ## Requisitos
 - C++
+- Maya
 - OpenGL
 - GLFW
 - Assimp
 - stb_image
-
-## Ejecución
-1. 
 
 ## Autores
 - Limon Sosa Zair Odin
